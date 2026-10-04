@@ -9,3 +9,10 @@ Modern construction projects are increasingly complex, yet the industry still re
 * **Inflexible Resource Allocation:** Equipment and labor deployment are rarely optimized dynamically, leading to costly idle time and severe scheduling conflicts.
 
 This lack of agility results in chronic project delays, inflated budgets, and unnecessary strain on engineering teams.
+
+## ✨ Key Features
+
+* **Real-Time Synchronization:** Unifies multi-tier project data to give all stakeholders a single, accurate source of truth.
+* **Proactive Bottleneck Detection:** Identifies critical-path risks and scheduling conflicts before they escalate into costly delays.
+* **Streamlined Workflow Blueprints:** Replaces rigid, outdated templates with flexible, adaptable management frameworks.
+* **Optimized Resource Tracking:** Ensures labor, materials, and equipment are deployed efficiently across every phase of the project lifecycle.
